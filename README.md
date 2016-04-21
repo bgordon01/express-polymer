@@ -1,7 +1,11 @@
 # Express-polymer [![Build Status](https://travis-ci.org/bgordon01/express-polymer.svg?branch=develop)](https://travis-ci.org/bgordon01/express-polymer)
 > Express JS Framework & Polymer Web Components Scaffolding 
 
-[![express](https://raw.githubusercontent.com/bgordon01/express-polymer/develop/expressLogo.png)][(http://expressjs.com/)] [![polymer](https://rawgit.com/bgordon01/express-polymer/develop/polymerLogo.svg)][(https://www.polymer-project.org)]
+![express](https://raw.githubusercontent.com/bgordon01/express-polymer/develop/expressLogo.png)
+> (http://www.expressjs.com)
+
+![polymer](https://rawgit.com/bgordon01/express-polymer/develop/polymerLogo.svg)
+> (https://www.polymer-project.org)
 
 ## Credits
 
