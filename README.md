@@ -4,3 +4,4 @@
 ![express](https://raw.githubusercontent.com/bgordon01/express-polymer/develop/expressLogo.png) ![polymer](https://rawgit.com/bgordon01/express-polymer/develop/polymerLogo.svg)
 
 
+This repo forms the basis of all our apps.
