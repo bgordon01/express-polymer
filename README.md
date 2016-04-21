@@ -2,10 +2,10 @@
 > Express JS Framework & Polymer Web Components Scaffolding 
 
 ![express](https://raw.githubusercontent.com/bgordon01/express-polymer/develop/expressLogo.png)
-> (http://www.expressjs.com)
+> http://www.expressjs.com - version 4.13.3
 
 ![polymer](https://rawgit.com/bgordon01/express-polymer/develop/polymerLogo.svg)
-> (https://www.polymer-project.org)
+> https://www.polymer-project.org - version 1.0.0
 
 ## Credits
 
