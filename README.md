@@ -1,3 +1,4 @@
-# express-polymer-cordova [![Build Status](https://travis-ci.com/bgordon01/express-polymer-cordova.svg?token=e79AfKUwrEdw7BocxGKW&branch=master)](https://travis-ci.com/bgordon01/express-polymer-cordova)
+# Express Polymer [![Build Status](https://travis-ci.com/bgordon01/express-polymer-cordova.svg?token=e79AfKUwrEdw7BocxGKW&branch=master)](https://travis-ci.com/bgordon01/express-polymer-cordova)
+> Express JS Framework & Polymer Web Components Scaffolding 
 
-ExpressJS / Polymer Web Components &amp; Cordova Hybrid Mobile Scaffolding 
+
