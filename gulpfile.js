@@ -42,7 +42,7 @@ var AUTOPREFIXER_BROWSERS = [
   'bb >= 10'
 ];
 
-var DIST = 'www';
+var DIST = 'dist';
 
 var dist = function(subpath) {
   return !subpath ? DIST : path.join(DIST, subpath);
@@ -247,8 +247,8 @@ gulp.task('serve', ['styles', 'elements'], function() {
   gulp.watch(['app/images/**/*'], reload);
 });
 
-// Build and serve the output from the www build
-gulp.task('serve:www', ['default'], function() {
+// Build and serve the output from the dist build
+gulp.task('serve:dist', ['default'], function() {
   browserSync({
     port: 5001,
     notify: false,
@@ -308,7 +308,7 @@ gulp.task('build-deploy-gh-pages', function(cb) {
 
 // Deploy to GitHub pages gh-pages branch
 gulp.task('deploy-gh-pages', function() {
-  return gulp.src(www('**/*'))
+  return gulp.src(dist('**/*'))
     // Check if running task from Travis CI, if so run using GH_TOKEN
     // otherwise run using ghPages defaults.
     .pipe($.if(process.env.TRAVIS === 'true', $.ghPages({
