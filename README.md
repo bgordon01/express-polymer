@@ -5,13 +5,13 @@
 
 ## Credits
 
-Based on the following github repositories: ![polymer-express][https://github.com/lushfuture/polymer-express]
+Based on the following github repositories: https://github.com/lushfuture/polymer-express
 
 See video for a tutorial on what needs to be done: Polymer + Express App: Episode 1: Scaffolding, it's quite old but based my development on that, just with later versions of the express and polymer yoeman generators.
 
 [![Polymer + Express App: Episode 1: Scaffolding](https://img.youtube.com/vi/Tm9tz_vwTTA/0.jpg)](https://www.youtube.com/watch?v=Tm9tz_vwTTA)
 
-And then the more recent, but still outdated: ![express-polymer][https://github.com/WesBlackmore/express-polymer]
+And then the more recent, but still outdated: https://github.com/WesBlackmore/express-polymer
 
 # Installation 
 
