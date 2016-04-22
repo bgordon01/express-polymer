@@ -7,22 +7,26 @@
 ![polymer](https://rawgit.com/bgordon01/express-polymer/develop/polymerLogo.svg)
 > https://www.polymer-project.org - version 1.0.0
 
-## Credits
+This setup is based on the following github repositories: 
 
-Based on the following github repositories: https://github.com/lushfuture/polymer-express
+1. https://github.com/lushfuture/polymer-express which is fairly outdated now and then
 
-See video for a tutorial on what needs to be done: Polymer + Express App: Episode 1: Scaffolding, it's quite old but based my development on that, just with later versions of the express and polymer yoeman generators.
+2. https://github.com/WesBlackmore/express-polymer which is a more recent one, but still outdated.
+
+I also used this video tutorial on what needs to be done: Polymer + Express App: Episode 1: Scaffolding, it's quite old but shows the basic principles required.
 
 [![Polymer + Express App: Episode 1: Scaffolding](https://img.youtube.com/vi/Tm9tz_vwTTA/0.jpg)](https://www.youtube.com/watch?v=Tm9tz_vwTTA)
 
-And then the more recent, but still outdated: https://github.com/WesBlackmore/express-polymer
+# Installation
 
-# Installation 
+## Node JS
 
-## Initial setup
+> Node JS setup of both the client and server side code.
 
-## Express generator
+Clone this repository: `git clone https://github.com/bgordon01/express-polymer.git`, then run `npm install && bower install` to load all dependancy packages.
 
-## Polymer generator
+## Cordova ( Android native app )
 
-## Final installation steps
+> Compile the polymer client side app into a cordova hybrid app
+
+
