@@ -18,7 +18,7 @@ I also used this video tutorial on what needs to be done: Polymer + Express App:
 
 # Installation
 
-## Node JS ![node](https://raw.githubusercontent.com/bgordon01/express-polymer/develop/nodejsLogo.png)
+## Node ![JS](https://raw.githubusercontent.com/bgordon01/express-polymer/develop/nodejsLogo.png)
 
 > Node JS setup of both the client and server side code.
 
