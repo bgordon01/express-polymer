@@ -19,7 +19,7 @@ I also used this video tutorial on what needs to be done: Polymer + Express App:
 
 # Installation
 
-## Node JS
+## Node JS ![node](https://nodejs.org/static/images/logos/nodejs-new-pantone-black.ai)
 
 > Node JS setup of both the client and server side code.
 
