@@ -1,11 +1,11 @@
 # Express-polymer [![Build Status](https://travis-ci.org/bgordon01/express-polymer.svg?branch=develop)](https://travis-ci.org/bgordon01/express-polymer)
 > Express JS Framework & Polymer Web Components Scaffolding 
 
-![express](https://raw.githubusercontent.com/bgordon01/express-polymer/develop/expressLogo.png)
-> http://www.expressjs.com - version 4.13.3
+Javascript Framework | Homepage | Version
+-------------------- | -------- | -------
+![express](https://raw.githubusercontent.com/bgordon01/express-polymer/develop/expressLogo.png) | http://www.expressjs.com | version 4.13.3
 
-![polymer](https://rawgit.com/bgordon01/express-polymer/develop/polymerLogo.svg)
-> https://www.polymer-project.org - version 1.0.0
+![polymer](https://rawgit.com/bgordon01/express-polymer/develop/polymerLogo.svg) | https://www.polymer-project.org | version 1.0.0
 
 This setup is based on the following github repositories: 
 
@@ -19,7 +19,7 @@ I also used this video tutorial on what needs to be done: Polymer + Express App:
 
 # Installation
 
-## Node JS ![node](https://nodejs.org/static/images/logos/nodejs-new-pantone-black.ai)
+## Node JS ![node](https://raw.githubusercontent.com/bgordon01/express-polymer/develop/nodejsLogo.png)
 
 > Node JS setup of both the client and server side code.
 
