@@ -3,8 +3,8 @@
 
 Javascript Framework | Type | Homepage | Version
 -------------------- | ---- | -------- | -------
-![express](https://raw.githubusercontent.com/bgordon01/express-polymer/develop/expressLogo.png) | Server side ( Node ) | http://www.expressjs.com | version 4.13.3
-![polymer](https://rawgit.com/bgordon01/express-polymer/develop/polymerLogo.svg) | Client side ( Browser )| https://www.polymer-project.org | version 1.0.0
+![express](https://raw.githubusercontent.com/bgordon01/express-polymer/develop/expressLogo.png) | Server side ( Node ) | http://www.expressjs.com | 4.13.3
+![polymer](https://rawgit.com/bgordon01/express-polymer/develop/polymerLogo.svg) | Client side ( Browser )| https://www.polymer-project.org | 1.0.0
 
 This setup is based on the following github repositories: 
 
