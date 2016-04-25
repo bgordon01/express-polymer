@@ -1,11 +1,10 @@
 # Express-polymer [![Build Status](https://travis-ci.org/bgordon01/express-polymer.svg?branch=develop)](https://travis-ci.org/bgordon01/express-polymer)
 > Express JS Framework & Polymer Web Components Scaffolding 
 
-Javascript Framework | Homepage | Version
--------------------- | -------- | -------
-![express](https://raw.githubusercontent.com/bgordon01/express-polymer/develop/expressLogo.png) | http://www.expressjs.com | version 4.13.3
-
-![polymer](https://rawgit.com/bgordon01/express-polymer/develop/polymerLogo.svg) | https://www.polymer-project.org | version 1.0.0
+Javascript Framework | Type | Homepage | Version
+-------------------- | ---- | -------- | -------
+![express](https://raw.githubusercontent.com/bgordon01/express-polymer/develop/expressLogo.png) | Server side ( Node ) | http://www.expressjs.com | version 4.13.3
+![polymer](https://rawgit.com/bgordon01/express-polymer/develop/polymerLogo.svg) | Client side ( Browser )| https://www.polymer-project.org | version 1.0.0
 
 This setup is based on the following github repositories: 
 
